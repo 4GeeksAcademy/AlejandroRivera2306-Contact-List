@@ -1,0 +1,7 @@
+.save{
+   width: 100%;
+}
+.botonescontacto{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
